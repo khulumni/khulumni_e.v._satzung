@@ -46,13 +46,17 @@ Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtscha
 
 1. Ein Mitgliedsbeitrag wird nach der Beitragsordnung des Vereins erhoben.
 
-## §7 Organe des Vereins
+## §7 Wahlen und Beschlüsse
+
+1. Wahlen und Beschlüsse werden durch die Wahl und Beschlussordnung geregelt.
+
+## §8 Organe des Vereins
 
 1. Organe des Vereins sind:
   * die Mitgliederversammlung (§ 8)
   * der Vorstand (§ 9)
 
-## §8 Mitgliederversammlung
+## §9 Mitgliederversammlung
 
 1. Oberstes Beschlussorgan ist die Mitgliederversammlung. 
 Die Mitgliederversammlung hat insbesondere folgende Aufgaben:
@@ -72,7 +76,7 @@ Dabei ist die festgesetzte Tagesordnung mitzuteilen.
 4. Das Stimmverhältnisses benötigt eine Mehrheit für eine Satzungsänderung von 2/3 und für eine Vereinsauflösung 4/5.
 Alle anderen Wahl- und Beschlussmodalitäten werden in der Wahlordnung geregelt.
 
-## §9 Vorstand
+## §10 Vorstand
 
 1. Der Vorstand des Vereins besteht aus
 
@@ -80,19 +84,26 @@ Alle anderen Wahl- und Beschlussmodalitäten werden in der Wahlordnung geregelt.
   * dem stellvertretenden Vorsitzenden
   * dem Schatzmeister
   * dem Schriftführer
+  * den Entsandten der Fachschaft (Beratend)
 
 2. Der Vorstand im Sinne des § 26 BGB besteht aus dem Vorsitzenden und dem stellvertretenden Vorsitzenden. 
 Jeder von ihnen vertritt den Verein einzeln.
-3. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von 4 Semestern gewählt.
+3. Der Vorstand wird von der Mitgliederversammlung, mit Ausnahme der von der Fachschaft Entsandten, auf die Dauer von 4 Semestern gewählt.
 
-## § 10 Kassenprüfer
+## § 11 Kassenprüfer
 
 1. Die Kassenprüfer prüfen zu jeder ordentlichen Mitgliederversammlung die Kassenlage und Kassenführung.
 2. Sie berichten der Mitgliederversammlung und können jederzeit unbeschränkt Einsicht in die Vereinsunterlagen nehmen, die im Zusammenhang mit der Kassenführung stehen.
 3. Kassenprüfer dürfen nicht dem Vorstand angehören.
 
+## § 12 Involvierung der Fachschaft
 
-## $10 Auflösung des Vereins
+1. Die Fachschaft hat die möglichkeit Berater aus ihren Reihen in Jedes Organ des Vereins zu entsenden. 
+Es wird explizit gewünscht dass die Fachschaft einen Berater in den Vorstand entsended 
+2. Die Fachschaft ist zur Mitgliederversammlung ordentlich zu laden und ist dort Antrags berechtigt.
+
+
+## $13 Auflösung des Vereins
 
 1. Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für den gemeinnützigen Zweck der Förderung der Erziehung, Volks­ und Berufsbildung einschließlich der Studentenhilfe. 
 2. Die Mitgliederversammlung stimmt über den Empfänger der Zuwendung ab.
