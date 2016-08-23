@@ -21,5 +21,5 @@ Die Beitragserhebung erfolgt durch:
 
 ## §4 Beitagshöhe
 
-Der jährliche Mindestbetrag beträgt 30€
+Der jährliche Mindestbetrag beträgt 30€, kann aber auf freiwillerger Basis erhöht werden.
 

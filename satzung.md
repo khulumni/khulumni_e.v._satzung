@@ -44,11 +44,11 @@ Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtscha
 
 ## §6 Beitrag
 
-1. Ein Mitgliedsbeitrag wird nach der Beitragsordnung des Vereins erhoben.
+Ein Mitgliedsbeitrag wird nach der Beitragsordnung des Vereins erhoben.
 
 ## §7 Wahlen und Beschlüsse
 
-1. Wahlen und Beschlüsse werden durch die Wahl und Beschlussordnung geregelt.
+Wahlen und Beschlüsse werden durch die Wahl und Beschlussordnung geregelt.
 
 ## §8 Organe des Vereins
 
@@ -75,6 +75,7 @@ Dabei ist die festgesetzte Tagesordnung mitzuteilen.
 3. Jede ordnungsgemäß einberufene Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
 4. Das Stimmverhältnisses benötigt eine Mehrheit für eine Satzungsänderung von 2/3 und für eine Vereinsauflösung 4/5.
 Alle anderen Wahl- und Beschlussmodalitäten werden in der Wahlordnung geregelt.
+5. Die Mitgliederversammlung kann sich einen Wahlleiter wählen.
 
 ## §10 Vorstand
 
