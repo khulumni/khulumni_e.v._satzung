@@ -15,7 +15,6 @@ Im folgenden wird die Fachschaft Humanwissenschaften der Universität Bamberg mi
 ## §2 Zweck
 
 1. Zweck des Vereins ist es die Arbeit der Fachschaft ideell, finanziell und sachlich zu unterstützen.
-Die bedeutet unter anderem.
 2. Um den Zweck des Vereins erfüllen zu können soll der Verein Mittel einwerben und verwalten.
 
 ## §3 Gemmeinnützugkeit
@@ -53,8 +52,8 @@ Wahlen und Beschlüsse werden durch die Wahl und Beschlussordnung geregelt.
 ## §8 Organe des Vereins
 
 1. Organe des Vereins sind:
-  * die Mitgliederversammlung (§ 8)
-  * der Vorstand (§ 9)
+  * die Mitgliederversammlung (§ 9)
+  * der Vorstand (§ 10)
 
 ## §9 Mitgliederversammlung
 
@@ -85,7 +84,7 @@ Alle anderen Wahl- und Beschlussmodalitäten werden in der Wahlordnung geregelt.
   * dem stellvertretenden Vorsitzenden
   * dem Schatzmeister
   * dem Schriftführer
-  * den Entsandten der Fachschaft (Beratend)
+  * den Entsandten der Fachschaft (beratend)
 
 2. Der Vorstand im Sinne des § 26 BGB besteht aus dem Vorsitzenden und dem stellvertretenden Vorsitzenden. 
 Jeder von ihnen vertritt den Verein einzeln.
@@ -99,13 +98,13 @@ Jeder von ihnen vertritt den Verein einzeln.
 
 ## § 12 Involvierung der Fachschaft
 
-1. Die Fachschaft hat die möglichkeit Berater aus ihren Reihen in Jedes Organ des Vereins zu entsenden. 
-Es wird explizit gewünscht dass die Fachschaft einen Berater in den Vorstand entsended 
-2. Die Fachschaft ist zur Mitgliederversammlung ordentlich zu laden und ist dort Antrags berechtigt.
+1. Die Fachschaft hat die Möglichkeit, Berater aus ihren Reihen in jedes Organ des Vereins zu entsenden. 
+Es ist explizit gewünscht, dass die Fachschaft einen Berater in den Vorstand entsendet. 
+2. Die Fachschaft ist zur Mitgliederversammlung ordentlich zu laden und ist dort antragsberechtigt.
 
 
 ## $13 Auflösung des Vereins
 
-1. Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für den gemeinnützigen Zweck der Förderung der Erziehung, Volks­ und Berufsbildung einschließlich der Studentenhilfe. 
+1. Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für den gemeinnützigen Zweck der Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe. 
 2. Die Mitgliederversammlung stimmt über den Empfänger der Zuwendung ab.
 
