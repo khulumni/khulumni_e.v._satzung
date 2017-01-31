@@ -114,5 +114,13 @@ Es wird explizit gewünscht, dass die Fachschaft mindestens einen Berater in den
 
 
 ## §13 Auflösung des Vereins
+
 1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für den gemeinnützigen Zweck der Förderung der Erziehung, Volks-­ und Berufsbildung einschließlich der Studentenhilfe. 
 2. Die Mitgliederversammlung stimmt über den Empfänger der Zuwendung ab.
+
+
+## Schlussbestimmung
+
+### 2016-10-14 Gründungsfassung
+
+Beschlossen am 2016-10-14 auf der Gründungsversammlung in Bamberg
