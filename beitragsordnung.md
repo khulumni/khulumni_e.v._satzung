@@ -21,7 +21,7 @@ Die Beitragsordnung gilt bis zur Änderung durch die Mitgliederversammlung (vgl.
 Die Beitragserhebung erfolgt auf eine der folgenden Arten
 
 * Dauerauftrag der Mitglieder
-* Barzahlung auf der mitgleiderversammlung
+* Barzahlung auf der Mitgliederversammlung
 
 
 ## §4 Beitagshöhe
