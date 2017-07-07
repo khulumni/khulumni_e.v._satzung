@@ -55,6 +55,7 @@ Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtscha
 ## §7 Wahlen und Beschlüsse
 
 1. Wahlen und Beschlüsse werden durch die Wahl und Beschlussordnung geregelt.
+2. Beschlüsse der Mitgliederversammlung sind unter Angabe des Orts und der Zeit der Versammlung und des Abstimmungsergebnisses in einer Niederschrift festzuhalten. Diese ist vom Versammlungsleiter zu unterschreiben.
 
 
 ## §8 Organe des Vereins

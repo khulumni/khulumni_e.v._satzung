@@ -21,10 +21,10 @@ Die Beitragsordnung gilt bis zur Änderung durch die Mitgliederversammlung (vgl.
 Die Beitragserhebung erfolgt auf eine der folgenden Arten
 
 * Dauerauftrag der Mitglieder
-* Barzahlung auf der mitgleiderversammlung
+* Barzahlung auf der Mitgliederversammlung
 
 
 ## §4 Beitagshöhe
 
 * Der jährliche Mindestbetrag beträgt 30€.
-* Studenten, Schüler, Arbeitslose, Umschüler, Rentner erhalten nach Vorlage eines entsprechenden Nachweises Zahlen 50% verminderten Beitrag.
+* Studenten, Auszubildende, Schüler, Arbeitslose, Umschüler, Rentner erhalten nach Vorlage eines entsprechenden Nachweises Zahlen 50% verminderten Beitrag.

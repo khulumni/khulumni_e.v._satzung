@@ -1,4 +1,4 @@
-Khulumni e.V - Wahlordnung
+Khulumni e.V. - Wahlordnung
 ========================================
 
 ## §0 Version
