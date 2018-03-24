@@ -23,6 +23,8 @@ Die Beitragserhebung erfolgt auf eine der folgenden Arten
 * Dauerauftrag der Mitglieder
 * Barzahlung auf der Mitgliederversammlung
 
+Der Beitrag ist bis zum 30. Juni des laufenden Jahres zu entrichten.
+
 
 ## §4 Beitagshöhe
 
