@@ -3,7 +3,7 @@ Khulumni e.V. - Beitragsordnung
 
 ## §0 Version
 
-Die aktuelle Fassung der Beitragsordnung wurde auf der Gründungsversammlung am 2016-10-14 beschlossen.
+Die aktuelle Fassung der Beitragsordnung wurde auf der Mitgliederversammlung am 2018-02-10 beschlossen.
 
 
 ## §1 Beitragsordnung
@@ -22,6 +22,8 @@ Die Beitragserhebung erfolgt auf eine der folgenden Arten
 
 * Dauerauftrag der Mitglieder
 * Barzahlung auf der Mitgliederversammlung
+
+Der Beitrag ist bis zum 30. Juni des laufenden Jahres zu entrichten.
 
 
 ## §4 Beitagshöhe
