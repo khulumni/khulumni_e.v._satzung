@@ -3,7 +3,7 @@ Khulumni e.V. - Satzung
 
 ## §0 Präambel
 
-"Khulumni e.V." ist der Alumni- und Förderverein der Fachschaftsvertretung der Fachschaftsvertretung Humanwissenschaften der Otto-Friedrich-Universität Bamberg.
+"Khulumni e.V." ist der Alumni- und Förderverein der Fachschaftsvertretung der Fachschaft Humanwissenschaften der Otto-Friedrich-Universität Bamberg.
 Im Folgenden wird die Fachschaftsvertretung der Fachschaft Humanwissenschaften der Otto-Friedrich-Universität Bamberg mit Fachschaft und der "Khulumni e.V." als Verein betitelt.
 
 
