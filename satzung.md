@@ -125,3 +125,5 @@ Es wird explizit gewünscht, dass die Fachschaft mindestens einen Berater in den
 ### 2016-10-14 Gründungsfassung
 
 Beschlossen am 2016-10-14 auf der Gründungsversammlung in Bamberg
+1.Änderung am 2017-03-08
+2.Änderung am 2023-07-15
