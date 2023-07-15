@@ -9,8 +9,8 @@ Im Folgenden wird die Fachschaftsvertretung der Fachschaft Humanwissenschaften d
 
 ## §1 Name und Sitz
 
-1. Der Verein führt den Namen "Khulumni e.V."
-2. Er soll in das Vereinsregister eingetragen werden und führt danach den Zusatz “e.V.“
+1. Der Verein führt den Namen "Khulumni"
+2. Er ist in das Vereinsregister eingetragen und führt den Zusatz “e.V.“
 3. Der Sitz des Vereins ist Bamberg.
 
 
