@@ -39,11 +39,11 @@ Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtscha
   * durch Ausschluss durch den Vorstand oder die Mitgliederversammlung bei satzungswidrigem oder vereinsschädigendem Verhalten
   * mit dem Tod des Mitglieds
 
-  
+
 ## §5 Rechte und Pflichten der Mitglieder
 
 1. Die Mitgliedschaft berechtigt zur Mitbestimmung innerhalb des Vereins durch die Mitgliederversammlung.
-2. Die Mitglieder sind verpflichtet, die satzungsgemäßen Zwecke des Vereins zu unterstützen und zu fördern. 
+2. Die Mitglieder sind verpflichtet, die satzungsgemäßen Zwecke des Vereins zu unterstützen und zu fördern.
 3. Sie sind verpflichtet, die festgesetzten Beiträge zu zahlen.
 
 
@@ -64,10 +64,10 @@ Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtscha
   * die Mitgliederversammlung (§9)
   * der Vorstand (§10)
 
-  
+
 ## §9 Mitgliederversammlung
 
-1. Oberstes Beschlussorgan ist die Mitgliederversammlung. 
+1. Oberstes Beschlussorgan ist die Mitgliederversammlung.
 Die Mitgliederversammlung hat insbesondere folgende Aufgaben:
   * Entgegennahme des Tätigkeitsberichts
   * Entlastung des Vorstands
@@ -77,8 +77,8 @@ Die Mitgliederversammlung hat insbesondere folgende Aufgaben:
   * Genehmigung der Wahlordnung
   * Satzungsänderung [2/3]
   * Vereinsauflösung [4/5]
-2. Eine Mitgliederversammlung ist vom Vorstand unter Einhaltung einer Einladungsfrist von mindestens 4 Wochen in Textform einzuberufen. 
-Die Einladung wird an die letzte dem Verein bekannte Anschrift gesendet. 
+2. Eine Mitgliederversammlung ist vom Vorstand unter Einhaltung einer Einladungsfrist von mindestens 4 Wochen in Textform einzuberufen.
+Die Einladung wird an die letzte dem Verein bekannte Anschrift gesendet.
 Dabei ist die festgesetzte Tagesordnung mitzuteilen.
 3. Jede ordnungsgemäß einberufene Mitgliederversammlung ist bei Anwesenheit von mindestens 50% oder 5 erschienenen Mitgliedern beschlussfähig.
 4. Für eine Satzungsänderung wird eine Mehrheit von 2/3 und für eine Vereinsauflösung eine Mehrheit von 4/5 der Anwesenden benötigt.
@@ -95,8 +95,8 @@ Alle anderen Wahl- und Beschlussmodalitäten werden in der Wahlordnung geregelt.
   * dem Schatzmeister
   * dem Schriftführer
   * den Entsandten der Fachschaft (beratend)
-2. Der Vorstand im Sinne des §26 BGB besteht aus dem Vorsitzenden und dem stellvertretenden Vorsitzenden. 
-Jeder von ihnen vertritt den Verein einzeln.
+2. Der Vorstand im Sinne des §26 BGB besteht aus dem Vorsitzenden, dem stellvertretenden Vorsitzenden und dem Schatzmeister.
+Jeder von ihnen ist allein vertretungsberechtigt.
 3. Der Vorstand wird von der Mitgliederversammlung, mit Ausnahme der von der Fachschaft Entsandten, auf die Dauer von 4 Semestern gewählt.
 4. Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit so lange im Amt, bis ihre Nachfolger gewählt sind und die Wahl angenommen haben.
 
@@ -110,14 +110,14 @@ Jeder von ihnen vertritt den Verein einzeln.
 
 ## §12 Involvierung der Fachschaft
 
-1. Die Fachschaft hat die Möglichkeit, Berater aus ihren Reihen in jedes Organ des Vereins zu entsenden. 
-Es wird explizit gewünscht, dass die Fachschaft mindestens einen Berater in den Vorstand entsendet. 
+1. Die Fachschaft hat die Möglichkeit, Berater aus ihren Reihen in jedes Organ des Vereins zu entsenden.
+Es wird explizit gewünscht, dass die Fachschaft mindestens einen Berater in den Vorstand entsendet.
 2. Die Fachschaft ist zur Mitgliederversammlung ordentlich zu laden und ist dort antragsberechtigt.
 
 
 ## §13 Auflösung des Vereins
 
-1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für den gemeinnützigen Zweck der Förderung der Erziehung, Volks-­ und Berufsbildung einschließlich der Studentenhilfe. 
+1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für den gemeinnützigen Zweck der Förderung der Erziehung, Volks-­ und Berufsbildung einschließlich der Studentenhilfe.
 2. Die Mitgliederversammlung stimmt über den Empfänger der Zuwendung ab.
 
 
