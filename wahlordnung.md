@@ -26,13 +26,17 @@ Die Wahlordnung gilt bis zur Änderung durch die Mitgliederversammlung (vgl. Sat
 
 ## §4 Allgemeine Grundsätze
 
-1. Stimmberechtigt sind alle anwesenden Mitglieder. Diese können auch durch abwesende Mitglieder schriftlich bevollmächtigt werden.
+1. Stimmberechtigt sind alle anwesenden und anderweitig teilnehmenden Mitglieder. 
+1.1. Mitglieder können ihr Stimmrecht an Stimmberechtigte uebertragen (Stimmrechtsübertragung). 
+1.2. Eine Stimmrechtsübertragung ist vom Mitglied dem Vorstand und Protokoll schriftlich vorzulegen oder persoenlich im Rahmen der Versammlung zu verlautbaren.
+1.3. Stimmberechtigte, die nicht vor Ort anwesend sind, können ihr Stimmrecht bei geheimen Abstimmungen nur durch eine Stimmrechtsübertragung an ein vor Ort anwesendes Mitglied wahrnehmen.
 2. Wahlen für Organe des Vereins sind immer geheim durchzuführen.
 3. Sonstige Wahlen oder Beschlüsse sind offen abzuhalten.
 Sie können aber auf Antrag eines Mitglieds geheim durchgeführt werden; dieser Antrag muss nicht begründet werden.
 4. Ungültig sind Stimmzettel, die den Willen des Abstimmenden nicht zweifelsfrei erkennen lassen.
 5. Für geheime Wahlen und Beschlüsse sollen Wahlurnen oder ähnliches verwendet werden. Die Auszählung soll durch ein nicht zur Wahl stehendes Mitglied erfolgen.
 6. Stimmverteilungen werden im Protokoll festgehalten.
+
 
 
 ## §5 Stimmverhältnisse

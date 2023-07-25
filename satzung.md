@@ -84,6 +84,7 @@ Dabei ist die festgesetzte Tagesordnung mitzuteilen.
 4. Für eine Satzungsänderung wird eine Mehrheit von 2/3 und für eine Vereinsauflösung eine Mehrheit von 4/5 der Anwesenden benötigt.
 Alle anderen Wahl- und Beschlussmodalitäten werden in der Wahlordnung geregelt.
 5. Die Mitgliederversammlung kann sich einen Wahlleiter wählen.
+6. Der Vorstand soll die Teilnahmen an der Mitgliederversammlung ohne Anwesenheit am Versammlungsort ermöglichen.
 
 
 ## §10 Vorstand
