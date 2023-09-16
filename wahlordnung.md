@@ -53,3 +53,7 @@ Die Option, die dabei die meisten Stimmen erhält, gewinnt die Abstimmung.
 2. Da nur die Zustimmungen gezählt werden, wird nicht zwischen Nein-Stimmen und Enthaltungen unterschieden.
 3. Erhalten mehrere Optionen die meisten Stimmen, gibt es unter diesen eine zweite Abstimmung. Wird bei einem zweiten Wahlgang erneut ein Gleichstand der höchsten Abstimmungsergebnisse erzielt, entscheidet das Los.
 4. Es müssen immer mindestens zwei Optionen zur Abstimmung stehen.
+
+
+
+Bamberg 2023-07-15 

@@ -30,3 +30,6 @@ Der Beitrag ist bis zum 30. Juni des laufenden Jahres zu entrichten.
 
 * Der jährliche Mindestbetrag beträgt 30€.
 * Studenten, Auszubildende, Schüler, Arbeitslose, Umschüler, Rentner erhalten nach Vorlage eines entsprechenden Nachweises Zahlen 50% verminderten Beitrag.
+
+
+Bamberg 2018-02-10
